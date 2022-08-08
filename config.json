@@ -1,9 +1,9 @@
 {
-  "AUTH": {
-    "ENABLE": false,
-    "PASSWORD": "",
-    "USERS": []
-  },
-  "SPOTDL_DOWNLOADER": true,
-  "SPOTIFYDL_DOWNLOADER": false
+	"AUTH": {
+		"ENABLE": true,
+		"PASSWORD": "t4P03+=ytN",
+		"USERS": [jeremiah.helfer]
+	},
+	"SPOTDL_DOWNLOADER": false,
+	"SPOTIFYDL_DOWNLOADER": true
 }
