@@ -2,7 +2,7 @@
 	"AUTH": {
 		"ENABLE": true,
 		"PASSWORD": "t4P03+=ytN",
-		"USERS": [jeremiah.helfer]
+		"USERS": ["jeremiah.helfer"]
 	},
 	"SPOTDL_DOWNLOADER": false,
 	"SPOTIFYDL_DOWNLOADER": true
